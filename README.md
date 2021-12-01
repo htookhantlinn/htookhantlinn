@@ -21,10 +21,10 @@
             alt="https://www.facebook.com/htookhntlin/" height="30" width="40" /></a>
     <a href=https://www.instagram.com/htoo_khant_lin/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="https://www.instagram.com/htoo_khant_lin/" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/channel/ucrcki2sudilkkblad-njbnw" target="blank"><img align="center"
+            alt="https://www.instagram.com/htoo_khant_lin" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/channel/UCRcki2SUDILkkBlAd-NJbnw" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="https://www.youtube.com/channel/ucrcki2sudilkkblad-njbnw" height="30" width="40" /></a>
+            alt="https://www.youtube.com/channel/UCRcki2SUDILkkBlAd-NJbnw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
