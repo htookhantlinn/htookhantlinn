@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://htookhantlinn.github.io/](https://htookhantlinn.github.io/)
 
-- 💬 Ask me about **Java ,PHP , Javascript , Bootstrap**
+- 💬 Ask me about **Java ,PHP , Javascript , Bootstrap**, Tailwind**, Vue**
 
 - 📫 How to reach me **htookhantlinn18@gmail.com**
 
